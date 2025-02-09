@@ -10,8 +10,6 @@ public class VariablesAndCaseSensitivity {
         System.out.println("Student Age: " + studentAge);
         System.out.println("Item Price: $" + itemPrice);
         System.out.println("Student Name: " + studentName);
-        System.out.println("Item Price: $" + itemPrice);
-        System.out.println("Student Name: " + studentName);
         System.out.println("Counter: " + counter);
         System.out.println("Counter (Different Case): " + Counter);
 
